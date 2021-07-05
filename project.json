@@ -1,0 +1,127 @@
+{
+    "projects": [
+        {
+            "id": 1,
+            "title": "ABC",
+            "technology": "Sales force",
+            "subProjects": [{
+                "id": "ABC-1",
+                "title": "ADS-1"
+            },{
+                "id": "ABC-2",
+                "title": "ADS-2"
+            },{
+                "id": "ABC-3",
+                "title": "ADS-3"
+            },{
+                "id": "ABC-4",
+                "title": "ADS-4"
+            },{
+                "id": "ABC-5",
+                "title": "ADS-5"
+            }]
+        },
+        {
+            "id": 2,
+            "title": "DFE",
+            "technology": "SAP",
+            "subProjects": [{
+                "id": "DFE-1",
+                "title": "JHDU-1"
+            },{
+                "id": "DFE-2",
+                "title": "JHDU-2"
+            },{
+                "id": "DFE-3",
+                "title": "JHDU-3"
+            },{
+                "id": "DFE-4",
+                "title": "JHDU-4"
+            },{
+                "id": "DFE-5",
+                "title": "JHDU-5"
+            }]
+        },
+        {
+            "id": 3,
+            "title": "PHD",
+            "technology": "Oracle",
+            "subProjects": [{
+                "id": "PHD-1",
+                "title": "FDI-1"
+            },{
+                "id": "PHD-2",
+                "title": "FDI-2"
+            },{
+                "id": "PHD-3",
+                "title": "FDI-3"
+            },{
+                "id": "PHD-4",
+                "title": "FDI-4"
+            },{
+                "id": "PHD-5",
+                "title": "FDI-5"
+            }]
+        },
+        {
+            "id": 5,
+            "title": "PKDH",
+            "technology": "Sales force",
+            "subProjects": [{
+                "id": "PKDH-1",
+                "title": "HYUIE-1"
+            },{
+                "id": "PKDH-2",
+                "title": "HYUIE-2"
+            },{
+                "id": "PKDH-3",
+                "title": "HYUIE-3"
+            },{
+                "id": "PKDH-4",
+                "title": "HYUIE-4"
+            },{
+                "id": "PKDH-5",
+                "title": "HYUIE-5"
+            }]
+        },
+        {
+            "id": 6,
+            "title": "GUIWD",
+            "technology": "Sales force",
+            "subProjects": [{
+                "id": "GUIWD-1",
+                "title": "PKJJHWUDH-1"
+            },{
+                "id": "GUIWD-2",
+                "title": "PKJJHWUDH-2"
+            }]
+        },
+        {
+            "id": 7,
+            "title": "KJHHUE",
+            "technology": "Oracle",
+            "subProjects": [{
+                "id": "KJHHUE-1",
+                "title": "GGEU-1"
+            }]
+        },
+        {
+            "id": 8,
+            "title": "FTYWB",
+            "technology": "Oracle",
+            "subProjects": [{
+                "id": "FTYWB-1",
+                "title": "JKHWGID-1"
+            }]
+        },
+        {
+            "id": 9,
+            "title": "HGEHDKE",
+            "technology": "Oracle",
+            "subProjects": [{
+                "id": "HGEHDKE-1",
+                "title": "VGDWGD-1"
+            }]
+        }
+    ]
+}
